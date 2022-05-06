@@ -115,10 +115,10 @@ const Footer = () => {
   </div>
     <div className='d-flex'>
       <div>
-    <input className="form-control" style={{marginTop:'7px'}} type="search" placeholder="Signup for our newsletter" aria-label="Search"/>
+    <input className="form-control" style={{marginTop:'7px', borderRadius:'10px 0px 0px 10px'}} type="search" placeholder="Signup for our newsletter" aria-label="Search"/>
     </div>  
     <div>
-   <button className="btn btn-success " style={{marginLeft:'-3px'}} type="submit" title="Subscribe">Search</button>
+   <button className="btn btn-success btn-ml " style={{marginLeft:'0px', padding:'6.5px' ,borderRadius:'0px 10px 10px 0px'}} type="submit" title="Subscribe">Search</button>
    </div>
     </div>
     <div className='d-flex'>

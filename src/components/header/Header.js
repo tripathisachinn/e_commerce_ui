@@ -48,28 +48,28 @@ const Header = () => {
   <div className="text-center">
     <ul className="list-unstyled list-inline">
       <li className="list-inline-item">
-        <a href="#!" className="sbtn btn-large mx-1" title="search">
-          <img src={search}></img>
+        <a href="#!" className="sbtn btn-large mx-1" title="Search Here">
+          <img src={search}></img> |
         </a>
       </li>
       <li className="list-inline-item">
-        <a href="#!" className="sbtn btn-large mx-1" title="admin">
-        <img src={admin}></img>
+        <a href="#!" className="sbtn btn-large mx-1" title="My Account">
+        <img src={admin}></img> |
         </a>
       </li>
       <li className="list-inline-item">
-        <a href="#!" className="sbtn btn-large mx-1" title="like">
-        <img src={like}></img>
+        <a href="#!" className="sbtn btn-large mx-1" title="Wishlist">
+        <img src={like}></img> |
         </a>
       </li>
       <li className="list-inline-item">
-        <a href="#!" className="sbtn btn-large mx-1" title="home">
-        <img src={home}></img>
+        <a href="#!" className="sbtn btn-large mx-1" title="Glasses For Home Trial">
+        <img src={home}></img> |
         </a>
       </li>
       <li className="list-inline-item">
-        <a href="#!" className="sbtn btn-large mx-1" title="cart">
-        <img src={image}></img>
+        <a href="#!" className="sbtn btn-large mx-1" title="Checkout Cart">
+        <img src={image}></img> 
         </a>
       </li>
     </ul>
