@@ -125,7 +125,7 @@ const Footer = () => {
         <ul className="list-unstyled list-inline" style={{marginTop:'20px'}}>
     <li className="list-inline-item">
       <a href="#!" className="sbtn btn-large mx-1" title="Facebook">
-        <i className="fab fa-facebook-square fa-2x"></i>
+        <i className="fab fa-facebook fa-2x"></i>
       </a>
     </li>
     <li className="list-inline-item">
@@ -135,23 +135,23 @@ const Footer = () => {
     </li>
     <li className="list-inline-item">
       <a href="#!" className="sbtn btn-large mx-1" title="Twitter">
-        <i className="fab fa-twitter-square fa-2x"></i>
+        <i className="fab fa-twitter fa-2x"></i>
       </a>
     </li>
     <li className="list-inline-item">
       <a href="#!" className="sbtn btn-large mx-1" title="Youtube">
-        <i className="fab fa-youtube-square fa-2x"></i>
+        <i className="fab fa-youtube fa-2x"></i>
       </a>
     </li>
-    {/* Use different social media links */}
+
     <li className="list-inline-item">
-      <a href="#!" className="sbtn btn-large mx-1" title="Youtube">
-        <i className="fab fa-youtube-square fa-2x"></i>
+      <a href="#!" className="sbtn btn-large mx-1" title="Instagram">
+        <i className="fab fa-instagram fa-2x"></i>
       </a>
     </li>
     <li className="list-inline-item">
-      <a href="#!" className="sbtn btn-large mx-1" title="Youtube">
-        <i className="fab fa-youtube-square fa-2x"></i>
+      <a href="#!" className="sbtn btn-large mx-1" title="Github">
+        <i className="fab fa-github fa-2x"></i>
       </a>
     </li>
   </ul>

@@ -40,7 +40,7 @@ const Header = () => {
         <a href='#' style={{marginRight:'10px',textDecoration:'none', color:'black'}}>Glasses</a>
         <a href='#' style={{marginRight:'10px',textDecoration:'none', color:'black'}}>Sunglasses</a>
         <a href='#' style={{textDecoration:'none', color:'black'}}>Try At Home </a>
-        <a href='#' style={{textDecoration:'none', color:'black'}}>Blog</a>
+        <a href='#' style={{textDecoration:'none', color:'black'}}>Eye Test</a>
    </div>
         
     <form className="d-flex">
