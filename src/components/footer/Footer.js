@@ -6,7 +6,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div>
-       <footer id="footer" className=" bg-primary text-white d-flex-column text-center">
+       <footer id="footer" className=" text-white d-flex-column text-center">
 
 <hr className="mb-0"></hr>
 {/* <!--Footer Links--> */}
